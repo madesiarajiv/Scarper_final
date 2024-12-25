@@ -1,0 +1,27 @@
+# List of queries to process
+queries = job_consultancies_bengaluru = [
+    "Job consultancy in Bengaluru Indiranagar",
+    "Job consultancy in Bengaluru Malleswaram",
+    "Job consultancy in Bengaluru Shivajinagar",
+    "Job consultancy in Bengaluru Sadashivanagar",
+    "Job consultancy in Bengaluru Whitefield",
+    "Job consultancy in Bengaluru Marathahalli",
+    "Job consultancy in Bengaluru KR Puram",
+    "Job consultancy in Bengaluru Bellandur",
+    "Job consultancy in Bengaluru Hebbal",
+    "Job consultancy in Bengaluru Yelahanka",
+    "Job consultancy in Bengaluru Peenya",
+    "Job consultancy in Bengaluru Jalahalli",
+    "Job consultancy in Bengaluru Jayanagar",
+    "Job consultancy in Bengaluru Basavanagudi",
+    "Job consultancy in Bengaluru Banashankari",
+    "Job consultancy in Bengaluru BTM Layout",
+    "Job consultancy in Bengaluru Rajajinagar",
+    "Job consultancy in Bengaluru Vijayanagar",
+    "Job consultancy in Bengaluru Nagarbhavi",
+    "Job consultancy in Bengaluru Kengeri",
+    "Job consultancy in Bengaluru Koramangala",
+    "Job consultancy in Bengaluru HSR Layout",
+    "Job consultancy in Bengaluru Electronic City",
+    "Job consultancy in Bengaluru Bommanahalli"
+]
